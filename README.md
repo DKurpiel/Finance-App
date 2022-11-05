@@ -2,4 +2,4 @@
 
 App write in JavaScript - Personal finance manager
 
-<img src="./img.png">
+<a href="https://dkurpiel.github.io/Finance-App/"> <img src="./img.png"> </a>
